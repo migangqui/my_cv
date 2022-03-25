@@ -1,0 +1,344 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Ángel Quintanilla",
+      "title": "Sevillian Backend Engineer",
+      "description": "Desde que tenía 14 años tenía claro que quería estudiar informática y en la universidad (porque es el camino lógico que nos suelen inculcar). Al llegar a la universidad a los 18 no resultó ser apasionante. Aun así, aguanté el tirón hasta que en el último año, con asignaturas más prácticas y con mas conocimientos, me empezó a picar bastante el gusanillo. Y ahí ya si, me apasionaba. Quedándome medio año para acabar, me llamaron de Everis para hacer una formación, y sin esperar nada allí fui. Pues me contrataron. Y ahí en empezó mi periplo laboral, en Febrero de 2016. De ahí hasta Junio compaginé trabajo y universidad. Hice muchas cosas, pero dormir no. Con la carrera en la mano, un año después busqué nuevos retos en Ayesa, donde solo duré 4 meses y no fue lo que me esperaba pero de todo se aprende. Entonces en verano de 2017, Sngular llamó a mi puerta. Y para allí que me fui. Una gran decisión. Aprendí muchísimo y me impregné del buen ambiente de la oficina de Sevilla. Sin embargo, hubo un parón de carga de trabajo y eso es una cosa que me agobia bastante, no sentirme productivo. Entonces un compañero de facultad me llevó a su empresa, Profile, que acaba de abrir una oficina en Sevilla, donde solo eran 4 personas. \n3 años después, en 2021, supe que era el momento para emprender otro camino y probar en una empresa de producto, entonces me enrolé en Lookiero, una startup de moda basada en Bilbao. Y aquí sigo, aprendiendo cada día y disfrutando de la experiencia.\n\nAparte de todo eso, me encanta abarcar proyectos por mi cuenta. He montado un par de proyectos, un intento de startup y digamos que es una afición que comparto con amigos y le dedico bastante tiempo porque me encanta.\nSiempre he vivido en Sevilla y por ahora no tengo intención de moverme. Me encanta mi ciudad. \nMis aspiraciones profesionales pasan por dar un saltito más en mi formación y responsabilidad, así como la de crear productos y no trabajar para terceros. Es algo que siempre he querido hacer. Por eso me gusta tanto trabajar en mis propios proyectos.\nEn cuanto a lo personal, vivo con mi pareja en el centro de Sevilla y me gustaría irme a un piso más grande. \nSoy una persona sencilla, viajecitos, sol y amigos es lo que necesito.",
+      "avatar": {
+        "alt": "1633338174297-2.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a2771e85-6cc1-474d-88b0-ceba2b27c387_1633338174297-2.jpeg"
+      },
+      "location": {
+        "notes": "Sevilla"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/migangqui"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/maq_dev"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My Hobbies",
+        "fact": "Rap Music Production\nSports\nFriends\nTech"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Profile"
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2018-08-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Lookiero"
+        },
+        "roles": [
+          {
+            "name": "Mid Backend Engineer",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "Webflux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Everis"
+        },
+        "roles": [
+          {
+            "name": "Junior Java Developer",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ayesa"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Raddar",
+          "description": "Mobile application. Social network to share geolocated photos with your friends.",
+          "URL": "https://github.com/jaimegc/raddarapp"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-10-01",
+            "finishDate": "2018-08-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Spotishares",
+          "description": "Web app to share the control of your Spotify session with your friends to manage the playlist.",
+          "URL": "https://spotishares.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-07-01",
+            "competences": [
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática de Software",
+        "startDate": "2011-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Universidad de Sevilla",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Webflux",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,14 +15,13 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a2771e85-6cc1-474d-88b0-ceba2b27c387_1633338174297-2.jpeg"
       },
       "location": {
-        "notes": "Sevilla"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
-      },
       {
         "type": "github",
         "URL": "https://github.com/migangqui"
@@ -30,6 +29,10 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/maq_dev"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
       }
     ],
     "interestingFacts": [
@@ -43,33 +46,43 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sngular"
+          "name": "Lookiero"
         },
         "roles": [
           {
-            "name": "Backend Developer",
-            "startDate": "2017-07-01",
-            "finishDate": "2018-08-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
+            "name": "Mid Backend Engineer",
+            "startDate": "2021-05-01",
             "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
               {
                 "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "Groovy",
                 "type": "technology"
               },
               {
-                "name": "Amazon SQS",
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Webflux",
                 "type": "technology"
               }
             ]
@@ -85,23 +98,18 @@
             "name": "Software Architect",
             "startDate": "2018-08-01",
             "finishDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
                 "type": "technology"
               },
               {
                 "name": "Jenkins",
                 "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
               }
             ]
           }
@@ -109,75 +117,28 @@
       },
       {
         "organization": {
-          "name": "Lookiero"
+          "name": "Sngular"
         },
         "roles": [
           {
-            "name": "Mid Backend Engineer",
-            "startDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
+            "name": "Backend Developer",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-08-01",
             "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
               {
                 "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "Amazon SQS",
                 "type": "technology"
               },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Groovy",
-                "type": "technology"
-              },
-              {
-                "name": "Webflux",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Everis"
-        },
-        "roles": [
-          {
-            "name": "Junior Java Developer",
-            "startDate": "2016-02-01",
-            "finishDate": "2017-02-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
               {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Oracle",
+                "name": "MongoDB",
                 "type": "technology"
               }
             ]
@@ -193,18 +154,13 @@
             "name": "Java Developer",
             "startDate": "2017-02-01",
             "finishDate": "2017-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "AngularJS",
                 "type": "technology"
               },
               {
-                "name": "AngularJS",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -218,9 +174,71 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Everis"
+        },
+        "roles": [
+          {
+            "name": "Junior Java Developer",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-02-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
+      {
+        "details": {
+          "name": "Spotishares",
+          "description": "Web app to share the control of your Spotify session with your friends to manage the playlist.",
+          "URL": "https://spotishares.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-07-01",
+            "competences": [
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "details": {
           "name": "Raddar",
@@ -235,59 +253,19 @@
             "finishDate": "2018-08-01",
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
                 "name": "AWS",
                 "type": "technology"
               },
               {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
                 "name": "MongoDB",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Spotishares",
-          "description": "Web app to share the control of your Spotify session with your friends to manage the playlist.",
-          "URL": "https://spotishares.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-07-01",
-            "competences": [
+              },
               {
                 "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "WebSockets",
                 "type": "technology"
               }
             ]
@@ -297,6 +275,68 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -305,8 +345,7 @@
         "startDate": "2011-09-01",
         "finishDate": "2016-06-01",
         "institution": {
-          "name": "Universidad de Sevilla",
-          "description": ""
+          "name": "Universidad de Sevilla"
         }
       }
     ]
@@ -323,11 +362,15 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "AWS",
           "type": "technology"
         },
         {
-          "name": "Webflux",
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
           "type": "technology"
         },
         {
@@ -335,10 +378,25 @@
           "type": "technology"
         },
         {
-          "name": "AWS",
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Webflux",
           "type": "technology"
         }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Software Architect"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }

@@ -116,6 +116,23 @@
       },
       {
         "organization": {
+          "name": "Profile Software Services "
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2018-08-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Sngular"
         },
         "roles": [
@@ -191,6 +208,40 @@
               {
                 "name": "Oracle",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "everis"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Java",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": "Desarrollo con Spring Framework, Hibernate, JSP, WeblogicServer, Oracle SQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Restaurant50"
+        },
+        "roles": [
+          {
+            "name": "Empleado en prácticas",
+            "startDate": "2015-03-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Empleado en prácticas en la startup Restaurant50 trabajando con AngularJS y el framework PHP CodeIgniter."
               }
             ]
           }
@@ -274,11 +325,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -395,10 +441,6 @@
           "name": "PHP",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Software Architect"
       ]
     }
   }

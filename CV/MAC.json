@@ -370,25 +370,19 @@
       },
       {
         "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
           "type": "technology"
         }
       },
@@ -406,7 +400,7 @@
       },
       {
         "skill": {
-          "name": "Spring",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -418,7 +412,19 @@
       },
       {
         "skill": {
-          "name": "RabbitMQ",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       }

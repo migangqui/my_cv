@@ -52,6 +52,11 @@
           {
             "name": "Backend Engineer",
             "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -98,6 +103,11 @@
             "name": "Software Architect",
             "startDate": "2018-08-01",
             "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "JAVA",
@@ -141,6 +151,11 @@
             "name": "Backend Developer",
             "startDate": "2017-07-01",
             "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -171,6 +186,11 @@
             "name": "Java Developer",
             "startDate": "2017-02-01",
             "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AngularJS",
@@ -201,6 +221,11 @@
             "name": "Junior Java Developer",
             "startDate": "2016-02-01",
             "finishDate": "2017-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "JAVA",
@@ -406,7 +431,8 @@
         "startDate": "2011-09-01",
         "finishDate": "2016-06-01",
         "institution": {
-          "name": "Universidad de Sevilla"
+          "name": "Universidad de Sevilla",
+          "description": ""
         }
       }
     ]

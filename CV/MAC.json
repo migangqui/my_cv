@@ -473,12 +473,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "PHP",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "Software Architect"

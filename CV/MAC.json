@@ -91,32 +91,6 @@
       },
       {
         "organization": {
-          "name": "Profile"
-        },
-        "roles": [
-          {
-            "name": "Software Architect",
-            "startDate": "2018-08-01",
-            "finishDate": "2021-05-01",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Profile Software Services "
         },
         "roles": [

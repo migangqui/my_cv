@@ -204,6 +204,42 @@
     "projects": [
       {
         "details": {
+          "name": "Cloud Storage Spring API",
+          "description": "Java and Kotlin API to manage files of AWS S3, Google Cloud Storage, Azure Blob Storage and Dropbox in Spring framework.",
+          "URL": "https://github.com/migangqui/cloud-storage-spring-api"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-12-01",
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Spotishares",
           "description": "Web app to share the control of your Spotify session with your friends to manage the playlist.",
           "URL": "https://spotishares.com/"

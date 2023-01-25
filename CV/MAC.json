@@ -194,28 +194,6 @@
       },
       {
         "organization": {
-          "name": "Everis"
-        },
-        "roles": [
-          {
-            "name": "Junior Java Developer",
-            "startDate": "2016-02-01",
-            "finishDate": "2017-02-01",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "everis"
         },
         "roles": [

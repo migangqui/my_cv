@@ -45,7 +45,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Lookiero"
+          "name": "Lookiero",
+          "URL": "https://lookiero.es/"
         },
         "roles": [
           {

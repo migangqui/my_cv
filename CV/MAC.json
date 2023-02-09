@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -55,7 +54,7 @@
             "finishDate": "2022-12-01",
             "challenges": [
               {
-                "description": ""
+                "description": "Lideré la parte backend de mi squad durante año y medio, tomando decisiones de arquitectura y llevando a cabo migraciones de arquitectura monolítica a una arquitectura basada en microservicios y eventos."
               }
             ],
             "competences": [
@@ -121,11 +120,6 @@
             "name": "Backend Developer",
             "startDate": "2017-07-01",
             "finishDate": "2018-08-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AWS",
@@ -156,11 +150,6 @@
             "name": "Java Developer",
             "startDate": "2017-02-01",
             "finishDate": "2017-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AngularJS",
@@ -332,12 +321,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -422,8 +409,7 @@
         "startDate": "2011-09-01",
         "finishDate": "2016-06-01",
         "institution": {
-          "name": "Universidad de Sevilla",
-          "description": ""
+          "name": "Universidad de Sevilla"
         }
       }
     ]
@@ -468,7 +454,6 @@
         "Backend Developer",
         "Software Architect"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }

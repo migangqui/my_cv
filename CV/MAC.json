@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla"
+        "municipality": "Sevilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -121,6 +122,11 @@
             "name": "Backend Developer",
             "startDate": "2017-07-01",
             "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -151,6 +157,11 @@
             "name": "Java Developer",
             "startDate": "2017-02-01",
             "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AngularJS",
@@ -322,10 +333,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -410,7 +423,8 @@
         "startDate": "2011-09-01",
         "finishDate": "2016-06-01",
         "institution": {
-          "name": "Universidad de Sevilla"
+          "name": "Universidad de Sevilla",
+          "description": ""
         }
       }
     ]
@@ -455,6 +469,7 @@
         "Backend Developer",
         "Software Architect"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }

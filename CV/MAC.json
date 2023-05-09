@@ -46,6 +46,18 @@
     "jobs": [
       {
         "organization": {
+          "name": "Darwinex",
+          "URL": "https://darwinex.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2023-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Lookiero",
           "URL": "https://lookiero.es/"
         },

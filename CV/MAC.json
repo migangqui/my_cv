@@ -122,11 +122,6 @@
             "name": "Backend Developer",
             "startDate": "2017-07-01",
             "finishDate": "2018-08-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AWS",
@@ -157,11 +152,6 @@
             "name": "Java Developer",
             "startDate": "2017-02-01",
             "finishDate": "2017-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AngularJS",
@@ -333,42 +323,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
           "type": "technology"
         }
       },
@@ -380,13 +352,7 @@
       },
       {
         "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS-User",
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -398,19 +364,43 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-User",
           "type": "technology"
         }
       }
@@ -423,8 +413,7 @@
         "startDate": "2011-09-01",
         "finishDate": "2016-06-01",
         "institution": {
-          "name": "Universidad de Sevilla",
-          "description": ""
+          "name": "Universidad de Sevilla"
         }
       }
     ]
@@ -435,6 +424,14 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/migangqui"
+        },
+        {
+          "type": "other",
+          "URL": "https://twitter.com/maq_dev"
         }
       ]
     },
@@ -470,6 +467,6 @@
         "Software Architect"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   }
 }

@@ -18,23 +18,9 @@
         "country": "España",
         "region": "Andalucía",
         "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/migangqui"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/maq_dev"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "My Hobbies",
@@ -445,6 +431,15 @@
           "type": "other",
           "URL": "https://twitter.com/maq_dev"
         }
+      ],
+      "contactMails": [
+        "maq1993@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "654457964",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
@@ -480,5 +475,24 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "softSkills": [
+      "Adaptabilidad al cambio",
+      "Autonomía en el aprendizaje",
+      "Proactividad"
+    ],
+    "desiredJobDescription": "Mi trabajo ideal es aquel en el que, desde a posición de ingeniero de backend, pueda tomar decisiones cercanas al producto final, donde se vean de forma explicita el trabajo hecho por el equipo y dónde el buen diseño del Software sea una pata más del propio producto. Me gusta trabajar en equipo y tener conversaciones técnicas consensuadas que me ayuden a crecer profesionalmente. \nMe gustaría la posibilidad remota, pero si hay oficina en Sevilla, no dudaré en ir asiduamente.",
+    "projects": [
+      {
+        "name": "Raddar"
+      },
+      {
+        "name": "Spotishares"
+      },
+      {
+        "name": "Cloud Storage Spring API"
+      }
+    ]
   }
 }

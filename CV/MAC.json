@@ -499,11 +499,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Jenkins",
+        "name": "Docker",
         "type": "technology"
       },
       {
-        "name": "MongoDB",
+        "name": "Jenkins",
         "type": "technology"
       },
       {

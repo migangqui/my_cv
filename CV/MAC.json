@@ -11,14 +11,14 @@
       "title": "Backend Engineer",
       "description": "Estudié la carrera de Ingeniería del Software en la Universidad de Sevilla. Mi primera experiencia profesional fueron unas prácticas hace allá por 2015. He pasado por 5 empresas, consultoras y de producto, en las que he trabajado principalmente con Java y Spring, desarrollando una carrera de casi 8 años hasta el momento y enfrentándome a retos diversos, como mantenimiento de sistemas más antiguos, así como migraciones a microservicios o nuevos desarrollos. Me gusta pensar que me adapto muy bien a los cambios y la proactividad que aporto creo que son mis principales valedores. \nTengo experiencia trabajando en remoto así como con horarios flexibles que me ayudan a conciliar y rendir mejor.",
       "avatar": {
-        "alt": "1633338174297-2.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a2771e85-6cc1-474d-88b0-ceba2b27c387_1633338174297-2.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a2771e85-6cc1-474d-88b0-ceba2b27c387_1633338174297-2.jpeg",
+        "alt": "1633338174297-2.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)"
+        "municipality": "Sevilla"
       }
     },
     "interestingFacts": [
@@ -294,7 +294,6 @@
           {
             "name": "Developer",
             "startDate": "2016-10-01",
-            "finishDate": "2018-08-01",
             "competences": [
               {
                 "name": "AWS",
@@ -312,7 +311,8 @@
                 "name": "Spring",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2018-08-01"
           }
         ]
       }
@@ -321,54 +321,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -392,13 +362,43 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Kotlin",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS-User",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -409,9 +409,29 @@
         "degreeAchieved": true,
         "name": "Ingeniería Informática de Software",
         "startDate": "2011-09-01",
-        "finishDate": "2016-06-01",
         "institution": {
           "name": "Universidad de Sevilla"
+        },
+        "finishDate": "2016-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       }
     ]
@@ -420,16 +440,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/"
+          "URL": "https://www.linkedin.com/in/miguel-%C3%A1ngel-quintanilla-758a5b120/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://github.com/migangqui"
+          "URL": "https://github.com/migangqui",
+          "type": "github"
         },
         {
-          "type": "other",
-          "URL": "https://twitter.com/maq_dev"
+          "URL": "https://twitter.com/maq_dev",
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -477,21 +497,38 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
-    "softSkills": [
-      "Adaptabilidad al cambio",
-      "Autonomía en el aprendizaje",
-      "Proactividad"
+    "mainStackTechs": [
+      {
+        "name": "Jenkins",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
     ],
     "desiredJobDescription": "Mi trabajo ideal es aquel en el que, desde a posición de ingeniero de backend, pueda tomar decisiones cercanas al producto final, donde se vean de forma explicita el trabajo hecho por el equipo y dónde el buen diseño del Software sea una pata más del propio producto. Me gusta trabajar en equipo y tener conversaciones técnicas consensuadas que me ayuden a crecer profesionalmente. \nMe gustaría la posibilidad remota, pero si hay oficina en Sevilla, no dudaré en ir asiduamente.",
     "projects": [
+      {
+        "name": "Cloud Storage Spring API"
+      },
       {
         "name": "Raddar"
       },
       {
         "name": "Spotishares"
-      },
-      {
-        "name": "Cloud Storage Spring API"
       }
     ]
   }

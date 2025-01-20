@@ -354,12 +354,6 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Java",
           "type": "technology"
         }
@@ -500,15 +494,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Docker",
-        "type": "technology"
-      },
-      {
         "name": "Java",
         "type": "technology"
       },
       {
         "name": "Jenkins",
+        "type": "technology"
+      },
+      {
+        "name": "RabbitMQ",
         "type": "technology"
       },
       {

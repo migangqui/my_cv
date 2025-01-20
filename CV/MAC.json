@@ -408,12 +408,6 @@
       },
       {
         "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Spring Boot",
           "type": "technology"
         }
@@ -510,15 +504,15 @@
         "type": "technology"
       },
       {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
         "name": "Jenkins",
         "type": "technology"
       },
       {
         "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "Spring",
         "type": "technology"
       },
       {
